@@ -1,0 +1,13 @@
+<movieAnalysis fileName="example">
+    <peak_medial> 
+        <scoring left='value' right='value' both='value'/>
+    </peak_medial> 
+    <stiff_landing>
+        <scoring left='value' right='value' both='value'/>
+    </stiff_landing>
+    <center_of_gravity> 
+        <scoring COG='value'/>
+    </center_of_gravity>
+</movieAnalysis>
+
+
